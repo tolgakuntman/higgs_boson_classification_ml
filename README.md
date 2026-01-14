@@ -5,8 +5,8 @@
 
 ## Authors
 
-- **Tolga Kuntman**
-- **Michel Moussally**
+- **Tolga Kuntman (kuntmantolga@gmail.com)**
+- **Michel Moussally (moussallymichel@gmail.com)**
 
 ## Abstract
 
@@ -146,7 +146,3 @@ The results demonstrate that nonlinear models significantly outperform the linea
 - Parts of the logistic regression implementation are based on lab assignments (marked with comments in the code)
 - HIGGS dataset provided by [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/HIGGS)
 - Original dataset paper: Baldi, P., Sadowski, P., & Whiteson, D. (2014). *Searching for Exotic Particles in High-Energy Physics with Deep Learning*
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
